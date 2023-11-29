@@ -1,16 +1,18 @@
 # Complex-Multiplication
 ## Problem
-Multiply two complex numbers together. Complex numbers have the form A*i + B where
+
+The program multiplies two complex numbers together. Complex numbers have the form A*i + B where
 
 A is the imaginary part of the number B is the real part of the number i is the imaginary unit and i * i = -1
 
-Your program should ask the user for 2 complex numbers, multiply them together, and then display the result.
+The program asks the user for 2 complex numbers, multiplies them together, and then displays the result.
 
 ## Requirements
-Your Program must compile with the -Wall, -Werror, and -Wextra options enabled
-Assumptions
-All input is valid
-The examples provided do not represent all possible input you can receive so make sure to test thoroughly on your machine
+  - The program must compile with the -Wall, -Werror, and -Wextra options enabled
+
+## Assumptions
+  - All input is valid
+
 ## Additional Notes
 There can be any number of spaces between a, the plus sign, b, and i and your program should be able to handle this
 
